@@ -2,7 +2,7 @@
 # 2EMIA_Projeto
 AC e AT, 3° Trimestre 
 ## Autores
-- Anne Ribeiro - 13537
+- ` Anne Ribeiro - 13537 `
 - Carolina Pacífico - 13704 
 - Julie Missae Sanday - 12152
 - Maria Clara Gomes - 11959
