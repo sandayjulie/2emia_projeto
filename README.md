@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/sandayjuli/2emia_projeto?style=for-the-badge)
 # 2EMIA_Projeto
 AC e AT, 3° Trimestre 
 ## Autores
